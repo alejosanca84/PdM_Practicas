@@ -7,8 +7,12 @@ Las prácticas se desarrollarán utilizando las placas **NUCLEO-STM32F446RE**. E
 <img width="496" height="379" alt="image" src="https://github.com/user-attachments/assets/4ac15114-8f29-41d1-9d06-65104876e565" />
 Imagen 1. Estructura fisica de la STM32F446RE
 
+
+
 <img width="719" height="610" alt="image" src="https://github.com/user-attachments/assets/6163f76f-a3a4-4497-9bbc-5bc3e9165036" />
 Imagen 2. PINOUT de la STM32F446RE
+
+
 
 A continuación, se muestra una vista detallada del microcontrolador STM32F446RE:
 
