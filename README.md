@@ -20,6 +20,8 @@ Imagen 2.PINOUT de la STM32F446RE
 
 A continuación, se muestra una vista detallada del microcontrolador STM32F446RE:
 
-<img width="620" height="482" alt="image" src="https://github.com/user-attachments/assets/0f6ab5ab-a9d9-47cc-af76-1cf8f9115b9b" />
 
+<div align="center">
+<img width="620" height="482" alt="image" src="https://github.com/user-attachments/assets/0f6ab5ab-a9d9-47cc-af76-1cf8f9115b9b" />
+</div>
 El lenguaje de programación principal que utilizaremos será C, y el entorno de desarrollo integrado (IDE) empleado será STM32CubeIDE. Este IDE, proporcionado por STMicroelectronics, facilita la configuración, desarrollo, depuración y gestión de proyectos para los microcontroladores STM32.
