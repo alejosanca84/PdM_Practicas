@@ -1,6 +1,6 @@
 # PRACTICAS EN PROGRAMACIÓN DE MICROCONTROLADORES
 
-Este repositorio de GitHub está destinado a almacenar las prácticas desarrolladas en el marco de la asignatura "Programación de Microcontroladores" (PdM), dictada por el profesor Patricio Bos. A lo largo del curso, exploraremos diversos conceptos y técnicas de programación de microcontroladores a través de ejercicios prácticos.
+Este repositorio de GitHub está destinado a almacenar las prácticas desarrolladas en el marco de la asignatura "Programación de Microcontroladores" (PdM) https://sites.google.com/cursoscapse.com/pdm/informaci%C3%B3n, dictada por el profesor Patricio Bos. A lo largo del curso, exploraremos diversos conceptos y técnicas de programación de microcontroladores a través de ejercicios prácticos.
 
 Las prácticas se desarrollarán utilizando las placas **NUCLEO-STM32F446RE**. Esta es una placa de desarrollo versátil de la línea Nucleo-64 de STMicroelectronics, diseñada para facilitar la prototipación rápida y el desarrollo de aplicaciones electrónicas. Integra el microcontrolador de alto rendimiento STM32F446RE, que cuenta con un núcleo ARM Cortex-M4F, hasta 512 Kbytes de memoria Flash y 128 Kbytes de SRAM. La placa también incorpora un programador/depurador ST-LINK, conectividad Arduino™ V3 y conectores Morpho, siendo compatible con Entornos de Desarrollo Integrado (IDE) como IAR y Keil.
 <div align="center">
