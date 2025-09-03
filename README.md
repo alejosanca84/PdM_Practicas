@@ -7,14 +7,14 @@ Las prácticas se desarrollarán utilizando las placas **NUCLEO-STM32F446RE**. E
 <img width="496" height="379" alt="Estructura fisica de la STM32F446RE" src="https://github.com/user-attachments/assets/4ac15114-8f29-41d1-9d06-65104876e565" />
 </div>
 <div align="center">
-**_Imagen 1. Estructura fisica de la STM32F446RE_**
+Imagen 1. Estructura fisica de la STM32F446RE
 </div>
 
 <div align="center">
 <img width="619" height="510" alt="PINOUT de la STM32F446RE" src="https://github.com/user-attachments/assets/6163f76f-a3a4-4497-9bbc-5bc3e9165036" />
 </div>
 <div align="center">
-**_Imagen 2.PINOUT de la STM32F446RE_** 
+Imagen 2.PINOUT de la STM32F446RE 
 </div>
 <br/>
 
