@@ -24,11 +24,11 @@ A continuación, se muestra una vista detallada del microcontrolador STM32F446RE
 <div align="center">
 <img width="620" height="482" alt="image" src="https://github.com/user-attachments/assets/0f6ab5ab-a9d9-47cc-af76-1cf8f9115b9b" />
 </div>
-El lenguaje de programación principal que utilizaremos será C, y el entorno de desarrollo integrado (IDE) empleado será STM32CubeIDE. Este IDE, proporcionado por STMicroelectronics, facilita la configuración, desarrollo, depuración y gestión de proyectos para los microcontroladores STM32.\
+El lenguaje de programación principal que utilizaremos será C, y el entorno de desarrollo integrado (IDE) empleado será STM32CubeIDE. Este IDE, proporcionado por STMicroelectronics, facilita la configuración, desarrollo, depuración y gestión de proyectos para los microcontroladores STM32.
 
--A continuación se genera vinculo para ingresar a repositorios de otros compañeros del curso, para realizar las [**_Revisiones de Pares_**](https://docs.google.com/spreadsheets/d/1HzADZs-0CLlUJJO3HVow9YBQr32Byg_0SYztoK0Rcnw/edit?pli=1&gid=310710103#gid=310710103)
-*A continuación se genera el vinculo para ingresar al [**__Formulario de envio PdM_**](https://docs.google.com/forms/d/e/1FAIpQLSfg_Q2AEBmDZb_-0n2Pb2udjNEZx0brsL3lii4RE3uhhaPUYg/viewform)
+1. A continuación se genera vinculo para ingresar a repositorios de otros compañeros del curso, para realizar las [**_Revisiones de Pares_**](https://docs.google.com/spreadsheets/d/1HzADZs-0CLlUJJO3HVow9YBQr32Byg_0SYztoK0Rcnw/edit?pli=1&gid=310710103#gid=310710103)
+2. A continuación se genera el vinculo para ingresar al [**__Formulario de envio PdM_**](https://docs.google.com/forms/d/e/1FAIpQLSfg_Q2AEBmDZb_-0n2Pb2udjNEZx0brsL3lii4RE3uhhaPUYg/viewform)
 
 <div align="center">
-<img width="649" height="139" alt="LogoFiuba" src="https://github.com/user-attachments/assets/47583657-6b38-4119-af70-ab37c109877f" />
+<img width="749" height="239" alt="LogoFiuba" src="https://github.com/user-attachments/assets/47583657-6b38-4119-af70-ab37c109877f" />
 </div>
