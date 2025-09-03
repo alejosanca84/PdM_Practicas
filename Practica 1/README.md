@@ -29,12 +29,12 @@ Estas preguntas invitan a la reflexión sobre el diseño y la robustez del códi
  **_Respuesta: Se convierte en un proceso sencillo, dado que basta con agregar un nuevo dato al array (o eliminar uno existente, si asi se quisiera), sin tener que intervenir los condicionales (if-else)_**
 *   **Respuesta a las Pulsaciones:**
     *   ¿Cómo responde el programa a las pulsaciones del botón B1?\
-**_Respuesta: Para evitar falsos positivos se coloco un condicional (if-else) para comprobar que el pulsador estaba oprimido y un delay de 50 mS para evitar el rebote del boton, antes de iniciar con la alternancia de tiempos, (la cual antes tiene otro condicional para validar el estado del boton B1)._**\
+**_Respuesta: Para evitar falsos positivos se coloco un condicional (if-else) para comprobar que el pulsador estaba oprimido y un delay de 50 mS para evitar el rebote del boton, antes de iniciar con la alternancia de tiempos, (la cual antes tiene otro condicional para validar el estado del boton B1)._**
 
       <div align="center">
       <img width="862" height="318" alt="image" src="https://github.com/user-attachments/assets/94646b37-09f5-4dfc-b744-55449cde537a" />
       </div>
-      \
+      
     *   ¿Se observan "falsos positivos" (lecturas erróneas del botón) o "pulsaciones no detectadas" (pulsaciones reales que el programa ignora)? ¿A qué podrían deberse estos comportamientos?\
  **_Respuesta: Debido al arreglo anteriormente explicado no se observa esta condición, siempre y cuando el boton sea oprimido completamente_**
 *   **Momento de Lectura del Pulsador:**
