@@ -26,20 +26,12 @@ bool_t delayRead( delay_t * delay );
 void delayWrite( delay_t * delay, tick_t duration );
 ```
 
-# Proyecto de Retardos No Bloqueantes y Patrones de LED
+En main.c se deben ubicar la implementación de todas las funciones:
 
-Este repositorio contiene la implementación de un sistema de retardos no bloqueantes (non-blocking delays) y su aplicación para controlar el parpadeo de LEDs en una placa de desarrollo.
-
-## Implementación de Funciones en `main.c`
-
-El archivo `main.c` contiene la implementación de las funciones para la gestión de retardos no bloqueantes.
-
-### Consideraciones para la Implementación
+Consideraciones para la implementación:
 
 #### `delayInit`
-- Carga el valor de duración del retardo en el campo correspondiente de la estructura.
-- No inicia el conteo del retardo.
-- Inicializa el flag `running` en `false`.
+Debe cargar el valor de duración del retardo en la estructura, en el campo correspondiente. No debe iniciar el conteo del retardo. Debe inicializar el flag running en `false´.
 
 #### `delayRead`
 Esta función verifica el estado del flag `running`:
@@ -57,7 +49,9 @@ Esta función verifica el estado del flag `running`:
 
 **NOTA:** Para obtener una marca de tiempo, se puede utilizar la función `HAL_GetTick()`, que devuelve un valor que se incrementa cada 1 ms y sirve como base de tiempo.
 
----
+</div center>
+<img width="940" height="594" alt="image" src="https://github.com/user-attachments/assets/6bee5fcd-f818-4e65-b2c6-6dd0005fd42e" />
+</div>
 
 ## Punto 2: Parpadeo Periódico de LED
 
